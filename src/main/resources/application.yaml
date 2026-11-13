@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: QA-TRACKER
+
+server:
+  port: 8082
